@@ -54,10 +54,6 @@ There are 8 indicators that will help individuals in choosing a suitable investm
 
 8.	Price earning to growth ratio- It draws the relationship between a stock’s P/E ratio and projected earnings growth rate over a specific period and gives investors an idea about a stock’s actual value taking projected growth rate into account.
 
-### CHALLENGES
-
-Collecting data of over 20000 stocks was a challenge due to centralised databases, API restrictions and time boundations. We solved it by using multiple accounts and two different instances of an API. Financial modelling was done on the collected data to reduce network overhead.
-
 ### Requirements
 
 #### Hardware
