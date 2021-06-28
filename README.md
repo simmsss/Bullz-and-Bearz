@@ -36,24 +36,6 @@ The UI elements are built and exported from Sketch. To conform with Apple’s Hu
 
 ![Technical framework](https://github.com/simmsss/Bullz-and-Bearz/blob/main/UI%20Elements/Technical%20Framework.jpg?raw=true)
 
-### KEY FEATURES 
-There are 8 indicators that will help individuals in choosing a suitable investment option for them –
-1.	Gross profit ratio- This would help in analysing the profitability and financial performance of a company, indicating its efficiency. 
-
-2.	PE ratio- Would determine if a stock is overvalued or undervalued and will reflect the market’s opinion on the earning capacity of a company. 
-
-3.	Price cash flow ratio- This ratio is used for comparing a company’s market value to its cash flow, thereby, providing a reliable indication of long-term returns and a more accurate picture of the company.
-
-4.	EPS diluted- The diluted earnings per share is a constructive metric because it indicates earning capacity of a shareholder in the worst-case scenario in terms of EPS as it takes into account all convertible securities, such as convertible bonds or convertible preferred stock, which are changed into equity or common stock. 
-
-5.	Price book value ratio- It indicates what each share of a company is worth according to the company’s books of accounts.
-
-6.	Asset turnover ratio- A measurement of the ability of management to use a firm's net assets to generate sales revenue.
-
-7.	Dividend yield percentage- This indicates the percentage of return that can be expected by way of dividends on the investment made at the prevailing market price.
-
-8.	Price earning to growth ratio- It draws the relationship between a stock’s P/E ratio and projected earnings growth rate over a specific period and gives investors an idea about a stock’s actual value taking projected growth rate into account.
-
 ### Requirements
 
 #### Hardware
