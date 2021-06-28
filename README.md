@@ -58,9 +58,6 @@ There are 8 indicators that will help individuals in choosing a suitable investm
 
 Collecting data of over 20000 stocks was a challenge due to centralised databases, API restrictions and time boundations. We solved it by using multiple accounts and two different instances of an API. Financial modelling was done on the collected data to reduce network overhead.
 
-### FUTURE GOALS 
-At present we have incorporated a wide range of exchanges but we plan on adding more to the list later on. Along with this, we would offer an option of portfolio management and a more customised sector research option which would include- Sector-based Industries, Companies in a sector/Industry and their price movement. We intend to extend our services beyond the Stock market as well i.e. we would include mutual funds, bonds and real estate. 
-
 ### Requirements
 
 #### Hardware
